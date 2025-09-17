@@ -29,22 +29,9 @@ This page hasn’t been updated for a long time. Over the past year, I’ve rema
 [best universities in my hometown]:https://www.fzu.edu.cn/
 
 
-## Past Hobbies
-
-I previously enjoyed long-distance running, [vlog making](https://space.bilibili.com/594030035), and computer game developing/playing. However, I have no time to do any of these things recently.
-
-## My Cat
-
-She is my love. Her name is Qbao (Q宝).
-
-<div>
-<img src="/images/cat.JPG">
-</div>
-<br>
 
 ## Chat with me
-
-**Jan 2023:** I have set up the [online-coffee-time](https://calendly.com/lancecai/meet-with-lance) (Inspired by [Shangzhe Wu](https://elliottwu.com/)). Welcome to chat with me!
+Welcome to chat with me!
 
 <!-- Calendly inline widget begin -->
 
