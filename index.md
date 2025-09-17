@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="Huqiqi.jpg" class="floatpic">
+<img src="2.jpg" class="floatpic">
 
 Here is **Qiqi Hu (Chelsey, 胡齐齐)**.<br>
 
