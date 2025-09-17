@@ -15,14 +15,17 @@ url: https://huqiqi.net
 owner:
   name: Qiqi Hu
   avatar: Huqiqi.jpg
-  # bio: Master student at Tsinghua Shenzhen International Graduate School
+  bio: Master student at Tsinghua Shenzhen International Graduate School
   email: chelseyhu111@gmail.com
-  cv: https://caihanlin.com/file/CV-HanlinCAI.pdf
+  # cv: https://caihanlin.com/file/CV-HanlinCAI.pdf
 
 
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   # twitter: lancecai2002
   github: HU-Qiqi
+  twitter: chelsey91302
+  uri: "https://sites.google.com/view/huqiqi"
+
   # linkedin: hanlincai
   # scholar: https://scholar.google.com/citations?user=8igSoWgAAAAJ
   # researchgate: https://www.researchgate.net/profile/Hanlin-Cai
@@ -38,7 +41,7 @@ owner:
 # --------------------------------------------------
 #  SEARCH-ENGINE VERIFICATION & ANALYTICS
 # --------------------------------------------------
-google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
+# google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
 # bing_verify: ""    # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 # google_analytics: "G-XXXXXXX"                                 # GA-4 property ID
 
@@ -50,8 +53,8 @@ google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
 links:
   - title: About Me
     url: /
-  - title: Publications
-    url: /publications/
+  #- title: Publications
+  #   url: /publications/
   - title: Awards
     url: /awards/
   - title: Hobbies
