@@ -7,7 +7,7 @@ title: 主页中文版
 ### 关于我
 
 <img src="https://github.com/HU-Qiqi/huqiqi.net/blob/main/backup/2.jpg" class="floatpic">
-<img src="https://caihanlin.com/backup/caihalin(2025).JPG" class="floatpic">
+
 
 你好，我是胡齐齐，清华大学深圳国际研究生院的硕士研究生，在[杜鸿达教授](https://www.sigs.tsinghua.edu.cn/dhd/list.htm)领导的广东省热管理工程与材料重点实验室工作。
 我曾在南方科技大学[郑锋教授](https://faculty.sustech.edu.cn/?tagid=fengzheng&iscss=1&snapid=1&orderby=date&go=2)领导的视觉智能课题组进行访问交流。
