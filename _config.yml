@@ -1,34 +1,34 @@
 # --------------------------------------------------
 #  BASIC SITE INFO
 # --------------------------------------------------
-title: Hanlin Cai   # Main site title (appears in browser tab & RSS)
-tagline: Here is personal website of Hanlin Cai. Powered by Jekyll, based on the Minimal Mistakes theme.  # Optional short tagline, used by some layouts
+title: Qiqi Hu   # Main site title (appears in browser tab & RSS)
+tagline: Here is personal website of Qiqi Hu. Powered by Jekyll, based on the Minimal Mistakes theme.  # Optional short tagline, used by some layouts
 description: Two roads diverged in woods, I took the one less traveled by.  # Strongly recommended for SEO & social cards
 
 # TIP ── For local development you can comment out `url`
 # and build with relative paths. In production you want this set.
-url: https://caihanlin.com
+url: https://huqiqi.net
 
 # --------------------------------------------------
 #  AUTHOR / PROFILE DATA
 # --------------------------------------------------
 owner:
-  name: Hanlin Cai
-  avatar: hanlin.jpg
-  # bio: Dream big, stay positive, work hard, and enjoy the journey.
-  email: hc663@cam.ac.uk
+  name: Qiqi Hu
+  avatar: Huqiqi.jpg
+  # bio: Master student at Tsinghua Shenzhen International Graduate School
+  email: chelseyhu111@gmail.com
   cv: https://caihanlin.com/file/CV-HanlinCAI.pdf
 
 
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  twitter: lancecai2002
-  github: GuangLun2000
-  linkedin: hanlincai
-  scholar: https://scholar.google.com/citations?user=8igSoWgAAAAJ
-  researchgate: https://www.researchgate.net/profile/Hanlin-Cai
-  zhihu: https://www.zhihu.com/people/chlire
-  xiaohongshu: 5c27848f0000000005030c6f
-  bilibili: 594030035
+  # twitter: lancecai2002
+  github: HU-Qiqi
+  # linkedin: hanlincai
+  # scholar: https://scholar.google.com/citations?user=8igSoWgAAAAJ
+  # researchgate: https://www.researchgate.net/profile/Hanlin-Cai
+  # zhihu: https://www.zhihu.com/people/chlire
+  # xiaohongshu: 5c27848f0000000005030c6f
+  # bilibili: 594030035
   # facebook: caihanlin2002
   # instagram: lancecai2002
   # lastfm:
