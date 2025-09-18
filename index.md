@@ -39,3 +39,5 @@ If you are interested in any aspect of me, I am always open to discussions and a
 - **2025.05** – Conducted research on the effects of PCM-coupled air cooling on thermal runaway propagation in lithium-ion batteries  
 - **2024.03** – Investigated copyright protection in image-to-image generation using diffusion models  
 
+
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=uv82N_7dV3rkBt0dfztE_3a8xjOEZQwsnE6OqptIpDE&cl=ffffff&w=a"></script>
