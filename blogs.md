@@ -8,7 +8,7 @@ title: Blogs
 
 ### 2025
 
-- [25Fall，全球博士项目混合申请实录](https://caihanlin.com/blogs/25fall/)<br>
+- [25Fall](https://caihanlin.com/blogs/25fall/)<br>
 
 <br>
 
