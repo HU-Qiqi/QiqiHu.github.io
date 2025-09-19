@@ -6,9 +6,10 @@ title: Publications
 
 
 ## Projects
-- WM_encoder_decoder
-- Privacy perserving
-- Privacy perserving
+- Thermal management for suppressing thermal runaway in LIBs
+- WM_encoder_decoder for copyright protection in image-to-image based on diffusion models
+- Privacy perserving for clustering in internet of things
+- Privacy perserving for image denoising in internet of things
 
 
 
