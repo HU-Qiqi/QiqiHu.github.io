@@ -6,14 +6,11 @@ title: Publications
 
 
 ## Projects
-- Thermal management for suppressing thermal runaway in LIBs
+- Hybrid thermal management scheme combining PCM and air cooling for suppressing thermal runaway in LIBs
 - WM_encoder_decoder for copyright protection in image-to-image based on diffusion models
-- Privacy perserving for clustering in internet of things
-- Privacy perserving for image denoising in internet of things
-
-
-
-
+- Privacy perserving for clustering based on Shared Nearest Neighboring algorithm in internet of things
+- Privacy perserving for image denoising based on Non Local Means algorithm in internet of things
+  
 ---
 
 ## Degree Thesis
